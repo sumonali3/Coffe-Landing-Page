@@ -336,7 +336,7 @@ nav ul li a{
 
 
 
-@media only screen and (max-width: 1268px){
+@media only screen and (max-width: 1368px){
 	.section-container{
 		width: 100%;
 		padding: 0 5%;
@@ -413,7 +413,7 @@ nav ul li a{
 	}
 
 	.hero-container .hero-img-part img{
-		width: 80%;
+		width: 75%;
 	}
 
 	.hero-container .hero-text h3{
