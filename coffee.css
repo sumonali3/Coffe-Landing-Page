@@ -335,6 +335,7 @@ nav ul li a{
 
 
 
+
 @media only screen and (max-width: 1268px){
 	.section-container{
 		width: 100%;
@@ -467,8 +468,6 @@ nav ul li a{
 	}
 	}
 
-
-	
 	@media only screen and (max-width: 768px){
 
 		.section-container{
@@ -511,7 +510,7 @@ nav ul li a{
 		nav ul li{
 			display: block;
 			padding: 8px 24px;
-			width: 35%;
+			width: 50%;
 			margin: 24px auto;
 		}
 	
@@ -536,17 +535,12 @@ nav ul li a{
 		.hero-container .hero-text .hero-container-button{
 			display: block;
 		}
-
 	
 		.hero-container .hero-text h2{
 			font-size: 40px;
 		}
 	
 		.hero-container .hero-img-part{
-			max-width: 100%;
-		}
-
-		.hero-container .hero-img-part img{
 			max-width: 100%;
 		}
 	
