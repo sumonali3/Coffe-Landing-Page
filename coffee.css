@@ -149,7 +149,7 @@ nav ul li a{
 
 .hero-section{
 	margin-top: 80px;
-	height: calc(100vh - 80px);
+	height: 100vh;
 	background-color: var(--primary-color);
 }
 
@@ -545,7 +545,7 @@ nav ul li a{
 	}
 
 	.hero-container .hero-img-part img{
-		max-width: 100%;
+		max-width: 90%;
 		align-items: center;
 	}
 
