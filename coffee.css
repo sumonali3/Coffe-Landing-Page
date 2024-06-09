@@ -149,7 +149,7 @@ nav ul li a{
 
 .hero-section{
 	margin-top: 80px;
-	height: 100vh;
+	height: calc(100vh);
 	background-color: var(--primary-color);
 }
 
@@ -700,7 +700,6 @@ nav ul li a{
 			padding-top: 0;
 			flex-direction: column-reverse;
 			align-items: center;
-			gap: 0;
 			padding-bottom: 32px;
 		}
 
