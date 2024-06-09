@@ -639,6 +639,10 @@ nav ul li a{
 	.footer-container .useful-link{
 		text-align: start;
 	}
+
+	.footer-container .footer-flex{
+		width: 100%;
+	}
 	}
 
 
@@ -809,6 +813,11 @@ nav ul li a{
 
 		.footer-container .useful-link{
 			text-align: start;
+			width: 100%;
+		}
+
+		.footer-container .footer-flex{
+			width: 100%;
 		}
 		
 		
