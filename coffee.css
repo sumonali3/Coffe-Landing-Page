@@ -640,6 +640,10 @@ nav ul li a{
 		text-align: start;
 	}
 
+	.contact-text .contact-items i{
+		font-size: 16px;
+	}
+
 	.footer-container .footer-flex{
 		width: 100%;
 	}
@@ -814,6 +818,10 @@ nav ul li a{
 		.footer-container .useful-link{
 			text-align: start;
 			width: 100%;
+		}
+
+		.contact-text .contact-items i{
+			font-size: 16px;
 		}
 
 		.footer-container .footer-flex{
