@@ -540,6 +540,10 @@ nav ul li a{
 		max-width: 100%;
 	}
 
+	.hero-container .hero-img-part{
+		max-width: 100%;
+	}
+
 	.hero-container .hero-img-part img{
 		max-width: 100%;
 		align-items: center;
@@ -703,8 +707,12 @@ nav ul li a{
 			max-width: 100%;
 		}
 
-		.hero-container .hero-img-part img{
+		.hero-container .hero-img-part{
 			max-width: 100%;
+		}
+
+		.hero-container .hero-img-part img{
+			max-width: 80%;
 			align-items: center;
 		}
 
