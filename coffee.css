@@ -725,10 +725,13 @@ nav ul li a{
 			font-size: 30px;
 		}
 
-		.hero-container .hero-text .hero-container-button .btn{
+		.hero-container .hero-text .hero-container-button{
 			display: block;
+		}
+
+		.hero-container .hero-text .hero-container-button .btn{
 			width: 100%;
-			margin: 12px 0;
+			margin: 10px 0;
 		}
 	
 		.hero-container .hero-text h2{
